@@ -11,7 +11,7 @@
 [![License](https://img.shields.io/badge/License-MIT-yellow?style=for-the-badge)](LICENSE)
 [![Status](https://img.shields.io/badge/Status-Active-brightgreen?style=for-the-badge)]()
 
-*A Python bridge for Minecraft Legacy Edition — control your world, your way.*
+*A Python bridge for Minecraft Legacy Edition*
 
 </div>
 
@@ -21,7 +21,6 @@
 
 **PMLEB** (Python Minecraft Legacy Edition Bridge) is a powerful Python interface that connects directly to Minecraft Legacy Edition via the leaked dev PC build, giving you programmatic control over your game environment.
 
-Whether you're automating tasks, building tools, or experimenting with game internals, PMLEB puts the power in your hands through clean, simple Python.
 
 ---
 
