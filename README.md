@@ -28,7 +28,7 @@
 
 - **Command Execution**: Run any in-game command directly from Python
 - **Gamerule Management**: Read and modify gamerules programmatically
-- **Extensible API**: Built to grow, easily hook into more game systems
+- **Extensible API**: We are adding support for new features lots of times!
 - **Pure Python**: No complicated dependencies, just Python
 
 ---
